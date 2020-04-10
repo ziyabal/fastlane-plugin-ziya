@@ -5,7 +5,7 @@ module Fastlane
   module Actions
     class ZiyaAction < Action
       def self.run(params)
-        UI.message("The ziya plugin is working!")
+        UI.message("The ziya plugin is working! YAY!")
       end
 
       def self.description
